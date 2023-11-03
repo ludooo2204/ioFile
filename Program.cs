@@ -1,0 +1,67 @@
+﻿using System;
+string filepath =Path.Combine(Directory.GetCurrentDirectory(), "wds.summ_con.txt");
+System.Console.WriteLine(filepath);
+
+string contenu=File.ReadAllText(filepath);
+var contenuSplit=contenu.Split("\n");
+Console.WriteLine($"{contenuSplit.Length} lignes !");
+
+var a=contenuSplit[117];
+var aaa=contenuSplit[110];
+var aaaa=contenuSplit[119];
+var aaaaa=contenuSplit[118];
+var aaaaaa=contenuSplit[117];
+var aaaaaaa=contenuSplit[11];
+System.Console.WriteLine(a);
+System.Console.WriteLine(aaa);
+System.Console.WriteLine(aaaa);
+System.Console.WriteLine(aaaaa);
+System.Console.WriteLine(aaaaaa);
+System.Console.WriteLine(aaaaaaa);
+var aa=a.Split(',');
+foreach (var item in aa)
+{
+    System.Console.WriteLine(item);
+    System.Console.WriteLine(item.Length);
+}
+Console.WriteLine(aa);
+var b = a.Substring(0, 10);
+var c = a.Substring(10, 7);
+var d = a.Substring(17, 6);
+var e = a.Substring(23, 5);
+var f = a.Substring(28, 5);
+var g = a.Substring(33, 4);
+var h = a.Substring(38, 4);
+var i = a.Substring(42, 4);
+var j = a.Substring(46, 5);
+var k = a.Substring(52, 6);
+var l = a.Substring(57, 6);
+var m = a.Substring(63, 6);
+var n = a.Substring(69, 11);
+var o = a.Substring(80,9);
+var p = a.Substring(89,9);
+var q = a.Substring(98,9);
+var r = a.Substring(107,5);
+var s = a.Substring(112,9);
+var t = a.Substring(121,9);
+var u = a.Substring(130,5);
+Console.WriteLine("1 "+b);
+Console.WriteLine("2 "+c);
+Console.WriteLine("3 "+d);
+Console.WriteLine("4 "+e);
+Console.WriteLine("5 "+f);
+Console.WriteLine("6 "+g);
+Console.WriteLine("7 "+h);
+Console.WriteLine("8 "+i);
+Console.WriteLine("9 "+j);
+Console.WriteLine("10 "+k);
+Console.WriteLine("11 "+l);
+Console.WriteLine("12 "+m);
+Console.WriteLine("13 "+n);
+Console.WriteLine("14 "+o);
+Console.WriteLine("15 "+p);
+Console.WriteLine("16 "+q);
+Console.WriteLine("17 "+r);
+Console.WriteLine("18 "+s);
+Console.WriteLine("19 "+t);
+Console.WriteLine("20 "+u);

@@ -1,0 +1,15 @@
+C:\Users\ludovic.vachon\Programmes\dotnet\ioFile\bin\Debug\net7.0\ioFile.exe
+C:\Users\ludovic.vachon\Programmes\dotnet\ioFile\bin\Debug\net7.0\ioFile.deps.json
+C:\Users\ludovic.vachon\Programmes\dotnet\ioFile\bin\Debug\net7.0\ioFile.runtimeconfig.json
+C:\Users\ludovic.vachon\Programmes\dotnet\ioFile\bin\Debug\net7.0\ioFile.dll
+C:\Users\ludovic.vachon\Programmes\dotnet\ioFile\bin\Debug\net7.0\ioFile.pdb
+C:\Users\ludovic.vachon\Programmes\dotnet\ioFile\obj\Debug\net7.0\ioFile.csproj.AssemblyReference.cache
+C:\Users\ludovic.vachon\Programmes\dotnet\ioFile\obj\Debug\net7.0\ioFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludovic.vachon\Programmes\dotnet\ioFile\obj\Debug\net7.0\ioFile.AssemblyInfoInputs.cache
+C:\Users\ludovic.vachon\Programmes\dotnet\ioFile\obj\Debug\net7.0\ioFile.AssemblyInfo.cs
+C:\Users\ludovic.vachon\Programmes\dotnet\ioFile\obj\Debug\net7.0\ioFile.csproj.CoreCompileInputs.cache
+C:\Users\ludovic.vachon\Programmes\dotnet\ioFile\obj\Debug\net7.0\ioFile.dll
+C:\Users\ludovic.vachon\Programmes\dotnet\ioFile\obj\Debug\net7.0\refint\ioFile.dll
+C:\Users\ludovic.vachon\Programmes\dotnet\ioFile\obj\Debug\net7.0\ioFile.pdb
+C:\Users\ludovic.vachon\Programmes\dotnet\ioFile\obj\Debug\net7.0\ioFile.genruntimeconfig.cache
+C:\Users\ludovic.vachon\Programmes\dotnet\ioFile\obj\Debug\net7.0\ref\ioFile.dll
